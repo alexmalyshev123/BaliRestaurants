@@ -1,0 +1,8 @@
+# Google Maps API client
+googlemaps==4.10.0
+
+# Environment variable management (for API keys)
+python-dotenv==1.0.0
+
+# Requests library (for making HTTP calls)
+requests==2.31.0
